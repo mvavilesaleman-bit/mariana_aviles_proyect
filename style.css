@@ -1,0 +1,17 @@
+body {
+  background-color: white;
+  color: black;
+  text-align: center;
+  font-family: Arial;
+  transition: 0.3s;
+}
+
+.dark {
+  background-color: #1a1a2e;
+  color: #00ffcc;
+}
+
+img {
+  width: 200px;
+  transition: 0.3s;
+}
